@@ -1,0 +1,8 @@
+com\mycompany\assessment2\dto\DVD.class
+com\mycompany\assessment2\ui\UserIO.class
+com\mycompany\assessment2\controller\Controller.class
+com\mycompany\assessment2\App.class
+com\mycompany\assessment2\ui\View.class
+com\mycompany\assessment2\dao\Dao.class
+com\mycompany\assessment2\ui\UserIOConsoleImpl.class
+com\mycompany\assessment2\dao\DaoFileImpl.class
